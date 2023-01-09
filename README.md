@@ -14,4 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@nanakura/88144111-8c77-4e00-95f1-7d31cce8903f.png" /></a>
+<p align="center">
+  <a href="https://github.com/pure-peace">
+    <img src="https://github-profile-trophy.vercel.app/?username=nanakura&row=1&column=7&no-bg=true&margin-w=42"/>
+  </a>
+</p>
+
+[![info](https://github-readme-stats.vercel.app/api?username=nanakura&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)](https://github.com/nanakura/nanakura)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanakura&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)](https://github.com/nanakura/nanakura)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nanakura&custom_title=⌛%20TIME%20SPENT)](https://github.com/nanakura/nanakura)
